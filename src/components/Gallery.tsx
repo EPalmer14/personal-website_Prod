@@ -4,7 +4,6 @@ import PortraitImage from "./Images/PortraitImage";
 import ImageOverlay from "./Images/ImageOverlay";
 import "../styling/Gallery.css";
 import { motion } from "framer-motion";
-import { width } from "@fortawesome/free-solid-svg-icons/fa0";
 import { useEffect } from "react";
 
 function Gallery() {

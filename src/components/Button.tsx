@@ -1,4 +1,3 @@
-import { CSSProperties } from "react";
 import { useNavigate } from "react-router-dom";
 import { motion, AnimationProps } from "framer-motion";
 

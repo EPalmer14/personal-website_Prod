@@ -1,6 +1,4 @@
-import { useRef } from "react";
-import { motion, useInView } from "framer-motion";
-import Button from "../components/Button";
+import { motion } from "framer-motion";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faInstagram,
@@ -9,10 +7,7 @@ import {
   faGithub,
 } from "@fortawesome/free-brands-svg-icons";
 import "../styling/Contact.css";
-import {
-  faShoppingBag,
-  faShoppingBasket,
-} from "@fortawesome/free-solid-svg-icons";
+import { faShoppingBag } from "@fortawesome/free-solid-svg-icons";
 
 function Contact() {
   const links = {

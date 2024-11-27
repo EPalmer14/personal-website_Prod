@@ -2,7 +2,7 @@ import React from "react";
 import { motion } from "framer-motion";
 import "../../styling/ImageOverlay.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faClose, faWindowClose } from "@fortawesome/free-solid-svg-icons";
+import { faClose } from "@fortawesome/free-solid-svg-icons";
 
 interface ImageOverlayProps {
   src: string;

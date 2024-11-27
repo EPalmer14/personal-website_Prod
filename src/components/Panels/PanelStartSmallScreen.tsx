@@ -1,6 +1,6 @@
 import "../../styling/Panels/PanelStart.css";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faArrowDown, faArrowRight } from "@fortawesome/free-solid-svg-icons";
+import { faArrowDown } from "@fortawesome/free-solid-svg-icons";
 import { motion } from "framer-motion";
 
 function PanelStartSmallScreen() {
