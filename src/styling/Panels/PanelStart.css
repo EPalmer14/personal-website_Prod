@@ -1,0 +1,26 @@
+.panel-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 75vh;
+    width: 100vh;
+    overflow: hidden;
+  }
+  
+  .panel-start-content {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    max-width: 90%;
+    width: 100%;
+    padding: 20px; /* Increased padding for more spacing */
+  }
+
+  @media screen and (max-width: 1260px) {
+    .panel-content {
+      justify-content: center;
+      width: auto !important;
+      height: 90vh !important;
+    }
+  }

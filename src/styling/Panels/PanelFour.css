@@ -1,0 +1,81 @@
+.GoalVid {
+    width: calc(100% + 2px) !important; 
+    max-width: 100%; 
+    height: auto;
+    margin-bottom: 15px;
+    border: 5px solid #333;
+    border-radius: 10px;
+    position: relative;
+    object-fit: cover;
+  }
+
+  .panel-four-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 75vh;
+    width: 75vw;
+    overflow: hidden;
+  }
+
+  .content-row-four {
+    display: flex;
+    align-items: center;
+    max-width: 90%;
+    width: 90%;
+    padding: 20px; /* Increased padding for more spacing */
+  }
+
+  .stack-panel {
+    display: flex;
+    flex-direction: column; /* Stack items vertically */
+    align-items: center;
+    padding: 20px;
+  }
+
+  .video-container {
+    display: flex;
+    width: 65%;
+    max-width: 65vw; 
+    justify-content: center;
+  }
+  
+  .GoalVid {
+    width: 66%;
+    height: auto;
+    display: block;
+  }
+  
+  .text-container {
+    margin-top:20px;
+    text-align: center;
+    max-width: 70vw;
+  }
+
+  .subtitle-four {
+    text-align: center;
+    font-size: 1rem; /* Larger font size for subtitle */
+    color: #666;
+    margin-bottom: 0px;
+    margin-top: -5px;
+  }
+
+  @media screen and (max-width: 1260px) {
+    .panel-four-content {
+      width: 100vw !important;
+      height: 100vh !important;
+    }
+  
+    .content-row-four {
+      width: 100vw !important;
+      padding: 0 !important;
+    }
+  
+    .info-text-four {
+      font-size: 1rem !important;
+    }
+  
+    .col-left-four {
+      flex: 0 0 160px !important;    
+    }
+  }

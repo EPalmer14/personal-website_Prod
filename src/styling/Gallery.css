@@ -1,0 +1,29 @@
+.page-container-gallery {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    background-size: cover;
+  }
+
+.gallery-grid {
+    align-content: center;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(20%, 1fr)); /* Create responsive grid */
+    gap: 30px; /* Space between grid items */
+    padding: 20px;
+  }
+
+  .image-container {
+    width: 100%; /* Container fills the grid cell */
+    aspect-ratio: 4 / 3; /* Set an aspect ratio for consistent height */
+    overflow: hidden; /* Hide overflow to crop images */
+    cursor: pointer;
+  }
+
+  .image-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border: 2px solid #333;
+    border-radius: 10px;
+  }

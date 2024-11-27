@@ -1,0 +1,36 @@
+.SurfsUp {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 15px;
+  border: 2px solid #333;
+  border-radius: 10px;
+}
+
+.panel-ten-content-ss {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 75vh;
+  width: 100vw;
+  overflow: hidden;
+}
+
+.img-container-ten-ss {
+  display: flex;
+  width: 100%;
+  max-width: 60%; 
+  max-height: 40vh;
+  justify-content: center;  
+}
+
+.text-container-ten-ss {
+  margin-top:20px;
+  text-align: center;
+  max-width: 50vw;
+}
+
+.info-text-ten-ss {
+  font-size: 1rem;
+  text-align: center;
+}

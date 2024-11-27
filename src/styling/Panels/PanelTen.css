@@ -1,0 +1,58 @@
+.SurfsUp {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 15px;
+    border: 2px solid #333;
+    border-radius: 10px;
+  }
+
+  .panel-ten-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 75vh;
+    width: 70vw;
+    overflow: hidden;
+  }
+
+  .img-container-ten {
+    display: flex;
+    width: 100%;
+    max-width: 60%; 
+    max-height: 40vh;
+    justify-content: center;  
+  }
+
+  .text-container-ten {
+    margin-top:20px;
+    text-align: center;
+    max-width: 85vw;
+  }
+
+  .info-text-ten {
+    font-size: 1.5rem;
+    text-align: center;
+  }
+
+  @media screen and (max-width: 1260px) {
+    .panel-ten-content {
+      width: 100vw !important;
+      height: 100vh !important;
+    }
+  
+    .content-row-ten {
+      width: 100vw !important;
+      padding: 0 !important;
+    }
+  
+    .info-text-ten {
+      font-size: 1rem !important;
+    }
+  
+    .col-right-ten {
+      flex: 0 0 200px !important;    
+    }
+  }
+
+  

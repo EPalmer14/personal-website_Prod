@@ -1,0 +1,30 @@
+.panel-end-content-ss {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150vh;
+    width: 100vw;
+    overflow: hidden;
+  }
+
+  .img-container-end-ss {
+    display: flex;
+    width: 100%;
+    max-width: 100vw; 
+    justify-content: center;  
+  }
+
+  .text-container-end-ss {
+    margin-top:20px;
+    text-align: center;
+    max-width: 85vw;
+  }
+
+  .BerlinPic {
+    width: 60%; /* Ensures image fills col-left width */
+    max-width: 100%; /* Remove the pixel max-width to allow full column use */
+    height: auto;
+    margin-bottom: 15px;
+    border: 2px solid #333;
+    border-radius: 10px;
+  }

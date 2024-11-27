@@ -1,0 +1,81 @@
+/* AboutMe.css */
+
+.page-container {
+    position: relative;
+    height: 75vh;
+    width: 100%;
+    overflow: hidden;
+    background-size: cover;
+  }
+  
+  .horizontal-scroll-container {
+    display: flex;
+    flex-direction: row;
+    height: 75vh;
+    width: 100%;
+    overflow-x: auto;
+    scroll-behavior: smooth;
+    scroll-snap-type: x mandatory;
+    scroll-snap-align: start;
+    scroll-snap-stop: always;
+    scrollbar-width: none; /* Firefox */
+  }
+
+  .horizontal-scroll-container::-webkit-scrollbar {
+    display: none; /* Chrome, Safari, Opera */
+  }
+  
+  .panel {
+    flex: 0 0 100vw; /* Full viewport width for each panel */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    padding: 20px;
+    height: 75vh;
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+  }
+  
+  /* Panels fade in/out smoothly without shifting positions */
+  .fade-in {
+    opacity: 1;
+  }
+  
+  .fade-out {
+    opacity: 0;
+    pointer-events: none;
+  }
+  
+  @media screen and (max-width: 1260px) {
+    .page-container {
+      position: relative;
+      overflow-y: auto !important;
+      overflow-x: hidden !important;
+      background-size: cover;
+    }
+    
+    .vertical-scroll-container {
+      display: block;
+      justify-content: center;
+      font-size: 1rem !important;
+    }
+
+
+  }
+
+  .panel-vertical {
+    opacity: 0;
+    transform: translateY(20px); 
+    transition: opacity 1s ease-out, transform 1s ease-out;
+  }
+  
+  .panel-vertical.fade-in {
+    opacity: 1;
+    transform: translateY(0); 
+  }
+  
+  .panel-vertical.fade-out {
+    opacity: 0;
+    transform: translateY(-20px); 
+  }

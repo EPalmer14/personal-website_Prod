@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+.intro-section {
+    padding-top: 70px;
+}
+
+.name-h1 {
+    padding-left: 10%;
+    font-family: 'Satisfy';
+    font-weight: bold;
+}
+
+.name-h4 {
+    padding-left: 30%;
+    font-size: 34px;
+    font-family: 'Satisfy';
+}
+
+@media screen and (max-width: 768px) {
+    .name-h4 {
+        padding-left: 0;
+        font-size: 24px; 
+        text-align: center;
+        padding-bottom: 5%;
+    }
+
+    .name-h1 {
+        padding-left: 0;
+        text-align: center;
+    }
+
+    .secondary-text {
+        text-align: center;
+        margin-left: 7%;
+        margin-right: 7%;
+    }
+
+    .btn {
+        margin: auto;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .name-h4 {
+        padding-left: 0;
+        font-size: 24px; 
+        text-align: center;
+        padding-bottom: 5%;
+    }
+
+    .name-h1 {
+        padding-left: 0;
+        text-align: center;
+    }
+
+    .secondary-text {
+        text-align: center;
+        margin-left: 7%;
+        margin-right: 7%;
+    }
+
+    .btn {
+        margin: auto;
+    }
+}
+
+.intro-text {
+    z-index: 1;
+}
+
+.profile-pic {
+    display: flex;
+    justify-content: center;
+    width: 95%;
+    height: auto;
+}
+
+.secondary-text {
+    font-size: 20px;
+    font-family: 'Satisfy';
+}
+
+.homepage {
+    overflow-x: hidden;
+}
+

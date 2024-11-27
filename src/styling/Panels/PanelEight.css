@@ -1,0 +1,49 @@
+.ClarkGoal {
+    width: calc(100% + 2px) !important; 
+    max-width: 100%; 
+    height: auto;
+    margin-bottom: 15px;
+    border: 5px solid #333;
+    border-radius: 10px;
+    position: relative;
+    object-fit: cover;
+  }
+
+  .panel-eight-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 75vh;
+    width: 90vw;
+    overflow: hidden;
+  }
+
+  .video-container-eight {
+    display: flex;
+    width: 100%;
+    max-width: 85vw; 
+    max-height: 40vh;
+    justify-content: center;  
+  }
+
+  .text-container-eight {
+    margin-top:20px;
+    text-align: center;
+    max-width: 85vw;
+  }
+
+  @media screen and (max-width: 1260px) {
+    .panel-eight-content {
+      width: 100vw !important;
+      height: 100vh !important;
+    }
+
+    .content-row-eight {
+      width: 100vw !important;
+      padding: 0 !important;
+    }
+
+    .text-container-eight {
+      font-size: 1rem !important;
+    }
+  }

@@ -1,0 +1,83 @@
+.col-left-nine {
+    flex: 0 0 220px; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 20px;
+  }
+  
+  .col-right-nine {
+    flex: 0 0 300px; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 20px;
+  }
+
+  .col-middle-nine {
+    flex-grow: 1;
+  }
+
+  .CovidMasks{
+    width: 100%; /* Ensures image fills col-left width */
+    max-width: 100%; /* Remove the pixel max-width to allow full column use */
+    height: auto;
+    margin-bottom: 15px;
+    border: 2px solid #333;
+    border-radius: 10px;
+  }
+
+  .ClarkSoccerCovid {
+    width: 100%; /* Ensures image fills col-left width */
+    max-width: 100%; /* Remove the pixel max-width to allow full column use */
+    height: auto;
+    margin-bottom: 15px;
+    border: 2px solid #333;
+    border-radius: 10px;
+  }
+
+  .info-text-nine {
+    font-size: 1.5rem;
+    text-align: center;
+  }
+
+  .panel-one-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 75vh;
+    width: 80vw;
+    overflow: hidden;
+  }
+
+  .content-row-nine {
+    display: flex;
+    align-items: center;
+    max-width: 90%;
+    width: 90%;
+    padding: 20px; /* Increased padding for more spacing */
+  }
+
+  @media screen and (max-width: 1260px) {
+    .panel-nine-content {
+      width: 100vw !important;
+      height: 100vh !important;
+    }
+
+    .content-row-nine {
+      width: 100vw !important;
+      padding: 0 !important;
+    }
+
+    .info-text-nine {
+      font-size: 1rem !important;
+    }
+
+    .col-left-nine {
+      flex: 0 0 50px !important;    
+    }
+
+    .col-right-nine {
+      flex: 0 0 50px !important;    
+    }
+  }

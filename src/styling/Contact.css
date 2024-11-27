@@ -1,0 +1,44 @@
+.social-link {
+    padding: 1%;
+}
+
+.Headshot {
+    border: 2px solid #333;
+    border-radius: 10px;
+}
+
+.contact {
+    overflow-x: hidden;
+}
+
+@media screen and (max-width: 768px) {
+    .Headshot {
+        justify-content: center;
+        align-self: center;
+        width: 35%;
+        height: auto;
+        margin-top: 5%;
+    }
+
+    .text-row {
+        text-align: center;
+        padding-left: 2%;
+        padding-right: 2%;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .Headshot {
+        justify-content: center;
+        align-self: center;
+        width: 35%;
+        height: auto;
+        margin-top: 5%;
+    }
+
+    .text-row {
+        text-align: center;
+        padding-left: 2%;
+        padding-right: 2%;
+    }
+}

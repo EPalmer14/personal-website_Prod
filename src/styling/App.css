@@ -1,0 +1,48 @@
+#brand {
+    padding-left: 5%;
+}
+
+.navbar {
+    background-color: black;
+}
+
+.navbar-toggler {
+    margin-right: 20px !important;
+}
+
+.navbar-toggler-icon {
+    color: white !important;
+}
+
+#nav {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.nav-item, a {
+    color: #ffffff !important;
+    font-size: 22px;
+    padding-top: 20px;
+}
+
+.nav-link.active {
+    color: #96daff !important;
+}
+
+#navbarNav {
+    padding-right: 10%;
+}
+
+h1, h2, h3, h4, p {
+    font-family: 'Satisfy';
+}
+
+.App {
+    overflow-y: hidden;
+}
+
+@media screen and (max-width: 992px) {
+    .footer {
+        font-size: .8rem;
+    }
+}

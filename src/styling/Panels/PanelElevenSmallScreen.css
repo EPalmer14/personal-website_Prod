@@ -1,0 +1,43 @@
+
+.GraduationPic {
+    width: 100%; /* Ensures image fills col-left width */
+    max-width: 100%; /* Remove the pixel max-width to allow full column use */
+    height: auto;
+    margin-bottom: 15px;
+    border: 2px solid #333;
+    border-radius: 10px;
+  }
+
+    
+  .col-right-eleven-ss {
+    flex: 0 0 100px; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 20px;
+  }
+
+  .col-left-eleven-ss {
+    flex-grow: 1;
+  }
+  
+  .panel-eleven-content-ss {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw !important;
+    height: 120vh !important;
+    overflow: hidden;
+  }
+
+  .content-row-eleven-ss {
+    display: flex;
+    align-items: center;
+    max-width: 100%;
+    width: 100vw !important;
+    padding: 20px !important;
+  }
+
+.info-text-eleven-ss {
+    font-size: 1rem !important;
+}
