@@ -1,4 +1,5 @@
 import "../../styling/Panels/PanelTwelve.css";
+import MadRiver from "../../assets/MadRiver.jpeg";
 
 function PanelTwelve() {
   return (
@@ -6,7 +7,7 @@ function PanelTwelve() {
       <div className="content-row-twelve">
         <div className="col-left-twelve">
           <img
-            src="src/assets/MadRiver.jpeg"
+            src={MadRiver}
             className="MadRiverPic"
             alt="Picture from Mad River Glen"
           />

@@ -1,4 +1,5 @@
 import "../../styling/Panels/PanelSeven.css";
+import Banner from "../../assets/Banner.jpeg";
 
 function PanelSeven() {
   return (
@@ -6,7 +7,7 @@ function PanelSeven() {
       <div className="content-row-seven">
         <div className="col-left-seven">
           <img
-            src="src/assets/Banner.jpeg"
+            src={Banner}
             className="BannerPic"
             alt="One of my High School banners"
           />

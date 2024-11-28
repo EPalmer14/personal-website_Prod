@@ -1,5 +1,7 @@
 import "../../styling/Panels/PanelNine.css";
 import Button from "../Button";
+import CovidPic from "../../assets/CovidMasks.jpg";
+import CovidSoccer from "../../assets/ClarkSoccerCovid.jpg";
 
 function PanelNine() {
   return (
@@ -7,7 +9,7 @@ function PanelNine() {
       <div className="content-row-nine">
         <div className="col-left-nine">
           <img
-            src={Covid}
+            src={CovidPic}
             className="CovidMasks"
             alt="Steve and me in Covid masks"
           />
@@ -44,7 +46,7 @@ function PanelNine() {
         </div>
         <div className="col-right-nine">
           <img
-            src="src/assets/ClarkSoccerCovid.jpg"
+            src={CovidSoccer}
             className="ClarkSoccerCovid"
             alt="Covid Clark Soccer practice"
           />

@@ -1,15 +1,12 @@
 import "../../styling/Panels/PanelOne.css";
+import BabyPic from "../../assets/Baby.jpg";
 
 function PanelOne() {
   return (
     <div className="panel-one-content">
       <div className="content-row-one">
         <div className="col-left-one">
-          <img
-            src="src/assets/Baby.jpg"
-            className="BabyPic"
-            alt="Baby Picture"
-          />
+          <img src={BabyPic} className="BabyPic" alt="Baby Picture" />
           <p className="subtitle">Even as a baby I was always tired!</p>
         </div>
         <div className="col-right-one">

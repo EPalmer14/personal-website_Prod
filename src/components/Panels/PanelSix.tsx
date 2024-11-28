@@ -1,4 +1,5 @@
 import "../../styling/Panels/PanelSix.css";
+import Musical from "../../assets/42ndSt.jpg";
 
 function PanelSix() {
   return (
@@ -6,7 +7,7 @@ function PanelSix() {
       <div className="content-row-six">
         <div className="col-left-six">
           <img
-            src="src/assets/42ndSt.jpg"
+            src={Musical}
             className="MusicalPic"
             alt="Performing '42nd Street' Musical at Vergennes Union High School."
           />

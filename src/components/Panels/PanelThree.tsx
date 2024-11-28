@@ -1,4 +1,5 @@
 import "../../styling/Panels/PanelThree.css";
+import Bode from "../../assets/MeAndBode.jpg";
 
 function PanelThree() {
   return (
@@ -6,7 +7,7 @@ function PanelThree() {
       <div className="content-row-three">
         <div className="col-left-three">
           <img
-            src="src/assets/MeAndBode.jpg"
+            src={Bode}
             className="BodePic"
             alt="Picture holding our dog Bode"
           />

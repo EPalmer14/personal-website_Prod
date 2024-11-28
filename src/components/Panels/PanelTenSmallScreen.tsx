@@ -1,4 +1,5 @@
 import "../../styling/Panels/PanelTenSmallScreen.css";
+import Surfing from "../../assets/SurfsUp.jpeg";
 
 function PanelTenSmallScreen() {
   return (
@@ -13,7 +14,7 @@ function PanelTenSmallScreen() {
         </p>
       </div>
       <div className="img-container-ten-ss">
-        <img src="src/assets/SurfsUp.jpeg" className="SurfsUp" alt="Surfing" />
+        <img src={Surfing} className="SurfsUp" alt="Surfing" />
       </div>
       <p className="subtitle">
         Trying out surfing for the first time at Hampton Beach in New Hampshire

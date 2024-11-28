@@ -1,5 +1,6 @@
 import "../../styling/Panels/PanelNineSmallScreen.css";
 import Button from "../Button";
+import CovidSoccer from "../../assets/ClarkSoccerCovid.jpg";
 
 function PanelNineSmallScreen() {
   return (
@@ -36,7 +37,7 @@ function PanelNineSmallScreen() {
         </div>
         <div className="col-right-nine-ss">
           <img
-            src="src/assets/ClarkSoccerCovid.jpg"
+            src={CovidSoccer}
             className="ClarkSoccerCovid"
             alt="Covid Clark Soccer practice"
           />

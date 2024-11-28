@@ -1,4 +1,5 @@
 import "../../styling/Panels/PanelTwo.css";
+import Brothers from "../../assets/Brothers.jpg";
 
 function PanelTwo() {
   return (
@@ -14,7 +15,7 @@ function PanelTwo() {
         </div>
         <div className="col-right-two">
           <img
-            src="src/assets/Brothers.jpg"
+            src={Brothers}
             className="BrothersPic"
             alt="Picture of me and my brothers"
           />
