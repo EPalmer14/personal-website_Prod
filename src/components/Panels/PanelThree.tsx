@@ -1,5 +1,6 @@
 import "../../styling/Panels/PanelThree.css";
-import MeAndBode from "../../assets/MeAndBode.jpg";
+import MeAndBode from "../../assets/Gallery/MeAndBode.jpg";
+
 function PanelThree() {
   return (
     <div className="panel-three-content">
