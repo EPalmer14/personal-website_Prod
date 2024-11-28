@@ -1,13 +1,12 @@
 import "../../styling/Panels/PanelThree.css";
-import Bode from "src/assets/MeAndBode.jpg";
-
+import MeAndBode from "../../assets/MeAndBode.jpg";
 function PanelThree() {
   return (
     <div className="panel-three-content">
       <div className="content-row-three">
         <div className="col-left-three">
           <img
-            src={Bode}
+            src={MeAndBode}
             className="BodePic"
             alt="Picture holding our dog Bode"
           />
