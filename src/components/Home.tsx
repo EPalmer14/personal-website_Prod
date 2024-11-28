@@ -1,6 +1,7 @@
 // src/components/Home.js
 import "../styling/Home.css";
 import Button from "../components/Button";
+import Homepage from "../assets/Homepage.png";
 import { motion } from "framer-motion";
 import { useEffect, useState } from "react";
 
@@ -75,7 +76,7 @@ function Home() {
               stiffness: 50,
               duration: 1.5,
             }}
-            src="src/assets/Homepage.png"
+            src={Homepage}
             alt="Homepage pic"
             className="profile-pic"
             width="auto"
