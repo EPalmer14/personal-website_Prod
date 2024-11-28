@@ -1,5 +1,5 @@
 import "../../styling/Panels/PanelThree.css";
-import Bode from "../../assets/MeAndBode.jpg";
+import Bode from "src/assets/MeAndBode.jpg";
 
 function PanelThree() {
   return (
