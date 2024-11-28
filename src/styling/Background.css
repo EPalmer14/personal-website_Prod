@@ -7,7 +7,7 @@
     width: 100vw;
     height: 100vh;
     background-color: silver;
-    background-image: url('src/assets/BackgroundInterests.png');
+    background-image: url('../assets/BackgroundInterests.png');
     background-size: contain; /* Ensures the image covers the entire background */
     background-repeat: 2;
     z-index: -1; /* Puts the background behind other content */
