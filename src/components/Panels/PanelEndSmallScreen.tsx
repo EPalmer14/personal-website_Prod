@@ -1,6 +1,6 @@
 import "../../styling/Panels/PanelEndSmallScreen.css";
 import Button from "../Button";
-import Berlin from "../../assets/Berlin.jpg";
+import Berlin from "../../assets/Gallery/Berlin.jpg";
 
 function PanelEndSmallScreen() {
   return (
