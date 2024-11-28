@@ -1,4 +1,5 @@
 import "../../styling/Panels/PanelEleven.css";
+import GradPic from "../../assets/Graduation.jpeg";
 
 function PanelEleven() {
   return (
@@ -20,7 +21,7 @@ function PanelEleven() {
         </div>
         <div className="col-right-eleven">
           <img
-            src="src/assets/Graduation.jpeg"
+            src={GradPic}
             className="GraduationPic"
             alt="Picture of me and my family from graduation"
           />

@@ -1,5 +1,6 @@
 import "../../styling/Panels/PanelEnd.css";
 import Button from "../Button";
+import Berlin from "../../assets/Berlin.jpg";
 
 function PanelEnd() {
   return (
@@ -7,7 +8,7 @@ function PanelEnd() {
       <div className="content-row-end">
         <div className="col-left-end">
           <img
-            src="src/assets/Berlin.jpg"
+            src={Berlin}
             className="BerlinPic"
             alt="Picture holding our dog Bode"
           />

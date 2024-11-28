@@ -7,7 +7,7 @@ function PanelNine() {
       <div className="content-row-nine">
         <div className="col-left-nine">
           <img
-            src="src/assets/CovidMasks.JPG"
+            src={Covid}
             className="CovidMasks"
             alt="Steve and me in Covid masks"
           />

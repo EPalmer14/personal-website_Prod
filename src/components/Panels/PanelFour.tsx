@@ -1,5 +1,6 @@
 import "../../styling/Panels/PanelFour.css";
 import { useRef, useEffect } from "react";
+import VergennesGoal from "../../assets/Goal.mp4";
 
 function PanelFour() {
   const videoRef = useRef<HTMLVideoElement>(null);
@@ -38,7 +39,7 @@ function PanelFour() {
           muted
           loop
         >
-          <source src="src/assets/Goal.mp4" type="video/mp4" />
+          <source src={VergennesGoal} type="video/mp4" />
           Your browser does not support the video tag.
         </video>
       </div>

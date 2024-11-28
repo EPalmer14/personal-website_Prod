@@ -1,5 +1,6 @@
 import "../../styling/Panels/PanelEight.css";
 import { useRef, useEffect } from "react";
+import ClarkGoal from "../../assets/Clark1stGoal.mp4";
 
 function PanelEight() {
   const videoRef2 = useRef<HTMLVideoElement>(null);
@@ -48,7 +49,7 @@ function PanelEight() {
           muted
           loop
         >
-          <source src="src/assets/Clark1stGoal.mp4" type="video/mp4" />
+          <source src={ClarkGoal} type="video/mp4" />
           Your browser does not support the video tag.
         </video>
       </div>

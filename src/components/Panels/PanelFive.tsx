@@ -1,4 +1,5 @@
 import "../../styling/Panels/PanelFive.css";
+import Band from "../../assets/BandKid.jpg";
 
 function PanelFive() {
   return (
@@ -13,11 +14,7 @@ function PanelFive() {
           </p>
         </div>
         <div className="col-right-five">
-          <img
-            src="src/assets/BandKid.jpg"
-            className="BandKidPic"
-            alt="Marching Band Picture"
-          />
+          <img src={Band} className="BandKidPic" alt="Marching Band Picture" />
           <p className="subtitle">
             My friend Wade and I at the Essex memorial day parade.
           </p>

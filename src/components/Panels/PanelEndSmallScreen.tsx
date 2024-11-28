@@ -1,5 +1,6 @@
 import "../../styling/Panels/PanelEndSmallScreen.css";
 import Button from "../Button";
+import Berlin from "../../assets/Berlin.jpg";
 
 function PanelEndSmallScreen() {
   return (
@@ -56,7 +57,7 @@ function PanelEndSmallScreen() {
         <br />
         <div className="img-container-end-ss">
           <img
-            src="src/assets/Berlin.jpg"
+            src={Berlin}
             className="BerlinPic"
             alt="Picture holding our dog Bode"
           />
