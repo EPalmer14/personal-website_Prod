@@ -631,7 +631,7 @@ function Projects() {
               attended a Euro's soccer match, went to the clubs, explored the
               historic city, and sampled lots of German cuisine. I captured
               small parts of the trip in video, and during our 8 hour overnight
-              flight back home, while I couldn't sleep, I edited all together
+              flight back home, while I couldn't sleep, I edited it all together
               into a quick video to highlight the trip. This video is viewable
               on my YouTube channel.
             </motion.p>
