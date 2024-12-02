@@ -490,10 +490,9 @@ function Projects() {
               editing. I realized that I had a plethora of interesting pictures
               that I wanted to share with others. One of my favorite things to
               photograph are landscapes and the natural world. Growing up in
-              Vermont, the second least populated state in the nation and a
-              state known for it's natural beauty, I have gained a deep
-              appreciation for landscapes and nature. I especially love scenes
-              that carefully blend natural elements with subtle man-made
+              Vermont, a state known for it's natural beauty, I have gained a
+              deep appreciation for landscapes and nature. I especially love
+              scenes that carefully blend natural elements with subtle man-made
               elements, of which there is no shortage of in New England. These
               are just a few of the photos I have taken. You can check out more
               in my shop!
