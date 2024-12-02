@@ -9,7 +9,7 @@ import GreaseMusical from "../assets/Gallery/Grease.jpg";
 import TwinState from "../assets/Gallery/TwinStateTrophy.jpg";
 import ArtShow from "../assets/Gallery/ArtShow.jpeg";
 import AUGang from "../assets/Gallery/AUGang.jpg";
-import AwayWPI from "../assets/Gallery/AwayVsWPI.jpg";
+import AwayWPI from "../assets/AwayVsWPI.jpg";
 import BerlinWall from "../assets/Gallery/BerlinWall.jpeg";
 import BerlinWatch from "../assets/Gallery/BerlinWatchParty.jpg";
 import Boston from "../assets/Gallery/BostonTrip.jpg";
