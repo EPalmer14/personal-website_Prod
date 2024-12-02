@@ -11,7 +11,7 @@ import ArtShow from "../assets/Gallery/ArtShow.jpeg";
 import AUGang from "../assets/Gallery/AUGang.jpg";
 import AwayWPI from "../assets/AwayVsWPI.jpg";
 import BerlinWall from "../assets/Gallery/BerlinWall.jpeg";
-import BerlinWatch from "../assets/Gallery/BerlinWatchParty.jpg";
+import BerlinWatch from "../assets/BerlinWatchParty.jpg";
 import Boston from "../assets/Gallery/BostonTrip.jpg";
 import BrosAndCousins from "../assets/Gallery/BrosAndCousins.jpeg";
 import BucketHats from "../assets/Gallery/BucketHats.jpg";
