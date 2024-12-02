@@ -1,6 +1,6 @@
 import "../../styling/Panels/PanelNine.css";
 import Button from "../Button";
-import CovidPic from "../../assets/Gallery/Covid.jpg";
+import CovidPic from "../../assets/Gallery/CovidMasks.jpg";
 import CovidSoccer from "../../assets/ClarkSoccerCovid.jpg";
 //testing
 function PanelNine() {
