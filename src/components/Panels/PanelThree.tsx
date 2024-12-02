@@ -19,8 +19,8 @@ function PanelThree() {
           <p className="info-text-three">
             During the summer of 2010, my family bought a yellow lab. We named
             him Bode, and he was only a few months old at the time! Bode was my
-            best friend up until he passed away over the summer of 2023. He was
-            my childhood dog, and I miss him dearly.
+            best friend up until he passed away in the summer of 2023. He was my
+            childhood dog, and I miss him dearly.
           </p>
         </div>
       </div>
