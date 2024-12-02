@@ -41,7 +41,7 @@ import HighSchoolGradBanner from "../assets/HighSchoolGraduationBanner.jpg";
 import HighSchoolGradFriends from "../assets/HighSchoolGraduationFriends.jpg";
 import Hiking from "../assets/Gallery/HikingCamelsHump.jpeg";
 import InsideOlympic from "../assets/Gallery/InsideBerlinOlympic.jpeg";
-import Killington from "../assets/Gallery/KillingtonSki.jpg";
+import Killington from "../assets/KillingtonSki.jpg";
 import LakeDay from "../assets/Gallery/LakeDay.jpeg";
 import LastDay46 from "../assets/Gallery/LastDay46.jpeg";
 import LuffyAndZoro from "../assets/Gallery/LuffyAndZoro.jpg";
