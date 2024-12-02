@@ -50,7 +50,7 @@ import Outside46 from "../assets/Gallery/Outside46.jpeg";
 import OutsideBerlinOlympic from "../assets/OutsideBerlinOlympic.jpg";
 import PosingWithGnome from "../assets/Gallery/PosingWithGnome.jpeg";
 import PromSeniorYear from "../assets/PromAvengers.jpg";
-import SoccerHazy from "../assets/Gallery/SoccerHazy.jpg";
+import SoccerHazy from "../assets/SoccerHazy.jpg";
 import SpringFormal from "../assets/Gallery/SpringFormal.jpeg";
 import Surfing from "../assets/Gallery/Surfing.jpeg";
 import Thanksgiving from "../assets/Gallery/Thanksgiving.jpeg";
