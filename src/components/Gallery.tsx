@@ -5,7 +5,7 @@ import ImageOverlay from "./Images/ImageOverlay";
 import "../styling/Gallery.css";
 import { motion } from "framer-motion";
 import { useEffect } from "react";
-import Grease from "../assets/Grease.jpg";
+import Grease from "../assets/Gallery/Grease.jpg";
 import TwinState from "../assets/Gallery/TwinStateTrophy.jpg";
 import ArtShow from "../assets/Gallery/ArtShow.jpeg";
 import AUGang from "../assets/Gallery/AUGang.jpg";
