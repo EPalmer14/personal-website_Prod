@@ -58,7 +58,7 @@ import TopOfWachusett from "../assets/Gallery/TopOfWachusett.jpeg";
 import USOpen from "../assets/Gallery/USOpen.jpeg";
 import VictoriaPillar from "../assets/Gallery/VictoriaPillar.jpeg";
 import VisitingGrandpa from "../assets/Gallery/VisitngGrandpa.jpg";
-import VsWPI from "../assets/Gallery/VsWPI.jpg";
+import VsWPI from "../assets/VsWPI.jpg";
 import WakeSurf from "../assets/Gallery/WakeSurf.jpeg";
 import Wedding from "../assets/Gallery/Wedding.jpeg";
 
