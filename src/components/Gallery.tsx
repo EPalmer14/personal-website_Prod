@@ -23,7 +23,7 @@ import ClarkMedia from "../assets/ClarkMediaDay.jpg";
 import ClarkSeniorDay from "../assets/Gallery/ClarkSoccerSenior Day.jpeg";
 import CliffJumping from "../assets/Gallery/CliffJumping.jpeg";
 import Coaching from "../assets/Gallery/Coaching.jpeg";
-import CoolingOff from "../assets/Gallery/CoolingOffWithBode.jpg";
+import CoolingOff from "../assets/CoolingOffWithBode.jpg";
 import DeepSea from "../assets/Gallery/DeepSeaFishing.jpeg";
 import EmmaWeddingInside from "../assets/Gallery/EmmasWeddingInside.jpeg";
 import EmmaWeddingOutside from "../assets/Gallery/EmmasWeddingOutside.jpg";
