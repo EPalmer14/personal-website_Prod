@@ -607,11 +607,11 @@ function Projects() {
               use my GoPro more. Every once and awhile when I am skiing I will
               break out the GoPro and try to catch some footage. In April 2024,
               Vermont got a huge snow storm. This was right as my friend Steve
-              and I were about ski Mad River Glen in Waitsfield, VT for a couple
-              days. The timing of the snowstorm was perfect, and we got some
-              great footage from one of the most iconic ski mountains on the
-              East Coast. This is the resulting video which can be viewed on my
-              YouTube channel.
+              and I were about to ski Mad River Glen in Waitsfield, VT for a
+              couple days. The timing of the snowstorm was perfect, and we got
+              some great footage from one of the most iconic ski mountains on
+              the East Coast. This is the resulting video which can be viewed on
+              my YouTube channel.
             </motion.p>
           </div>
         </div>
