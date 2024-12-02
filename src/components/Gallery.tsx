@@ -47,7 +47,7 @@ import LastDay46 from "../assets/Gallery/LastDay46.jpeg";
 import LuffyAndZoro from "../assets/Gallery/LuffyAndZoro.jpg";
 import Minnesota from "../assets/MinnesotaUSoccer.jpg";
 import Outside46 from "../assets/Gallery/Outside46.jpeg";
-import OutsideBerlinOlympic from "../assets/Gallery/OutsideBerlinOlympic.jpg";
+import OutsideBerlinOlympic from "../assets/OutsideBerlinOlympic.jpg";
 import PosingWithGnome from "../assets/Gallery/PosingWithGnome.jpeg";
 import PromSeniorYear from "../assets/Gallery/PromSeniorYear.jpg";
 import SoccerHazy from "../assets/Gallery/SoccerHazy.jpg";
