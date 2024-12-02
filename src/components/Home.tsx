@@ -44,7 +44,7 @@ function Home() {
                 transition={{ type: "spring", stiffness: 50, duration: 1.5 }}
                 className="name-h1"
               >
-                <strong>My name is Ezekiel Palmer...</strong>
+                <strong>Hi, welcome to my website!</strong>
               </motion.h1>
             </div>
           </div>
@@ -62,7 +62,7 @@ function Home() {
                 }}
                 className="name-h4"
               >
-                ...but most people call me Zeke
+                My name is Zeke!
               </motion.h4>
             </div>
           </div>

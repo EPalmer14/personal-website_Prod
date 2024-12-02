@@ -7,6 +7,7 @@ import {
   faGithub,
 } from "@fortawesome/free-brands-svg-icons";
 import "../styling/Contact.css";
+import BusinessPic from "../assets/Business_Photo.jpeg";
 import { faShoppingBag } from "@fortawesome/free-solid-svg-icons";
 
 function Contact() {
@@ -95,7 +96,7 @@ function Contact() {
         </div>
         <div className="col-lg-4 col-md-12 col-sm-12">
           <motion.img
-            src="src/assets/Business_Photo.jpeg"
+            src={BusinessPic}
             alt="Headshot"
             className="Headshot"
             initial={{ opacity: 0 }}

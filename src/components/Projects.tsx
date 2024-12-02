@@ -2,6 +2,23 @@ import { useRef } from "react";
 import { motion, useInView } from "framer-motion";
 import Button from "../components/Button";
 import "../styling/Projects.css";
+import Piano from "../assets/Projects/PianoCover.png";
+import Landscape from "../assets/Projects/Landscape2.png";
+import Cascade from "../assets/Projects/Cascade.png";
+import Northern from "../assets/Projects/NorthernShoreFinal.png";
+import Website1 from "../assets/Projects/WebsiteScreenshot1.png";
+import Website2 from "../assets/Projects/WebsiteScreenshot2.png";
+import Wachusett1 from "../assets/Projects/Wachnet3_1.png";
+import Wachusett2 from "../assets/Projects/Wachnet3_2.png";
+import HuesLogo from "../assets/Projects/HUES Logo Refined Black.png";
+import Single1 from "../assets/Projects/HuesAlbumCover.png";
+import Single2 from "../assets/Projects/i wont forget this love.png";
+import Single3 from "../assets/Projects/theseshoes4.jpg";
+import Synesthesia from "../assets/Projects/SynesthesiaAlbumFinal.png";
+import PuppetString from "../assets/Projects/PuppetStringDimensionCorrrected.png";
+import Vergennes from "../assets/Projects/Vergennes.png";
+import WachusettMountain from "../assets/Projects/WachusettMountain2.png";
+import Burlington from "../assets/Projects/Burlington.png";
 
 function Projects() {
   const projectOneRef = useRef(null);
@@ -63,7 +80,7 @@ function Projects() {
           <div className="col-lg-5 col-md-12 col-sm-12">
             <motion.img
               className="img-1-1"
-              src="src/assets/Projects/WebsiteScreenshot1.png"
+              src={Website1}
               initial={{ opacity: 0 }}
               animate={isInViewOne ? { opacity: 1 } : {}}
               transition={{ duration: 1 }}
@@ -75,7 +92,7 @@ function Projects() {
           <div className="col-lg-5 offset-lg-1 col-md-12 col-sm-12">
             <motion.img
               className="img-1-1"
-              src="src/assets/Projects/WebsiteScreenshot2.png"
+              src={Website2}
               initial={{ opacity: 0 }}
               animate={isInViewOne ? { opacity: 1 } : {}}
               transition={{ duration: 1 }}
@@ -127,7 +144,7 @@ function Projects() {
           <div className="col-lg-5 offset-lg-1 col-md-12 col-sm-12">
             <motion.img
               className="img-2-1"
-              src="src/assets/Projects/Wachnet3_1.png"
+              src={Wachusett1}
               initial={{ opacity: 0 }}
               animate={isInViewTwo ? { opacity: 1 } : {}}
               transition={{ duration: 1 }}
@@ -181,7 +198,7 @@ function Projects() {
           <div className="col-lg-5 col-md-12 col-sm-12">
             <motion.img
               className="img-2-2"
-              src="src/assets/Projects/Wachnet3_2.png"
+              src={Wachusett2}
               initial={{ opacity: 0 }}
               animate={isInViewTwo ? { opacity: 1 } : {}}
               transition={{ duration: 1 }}
@@ -236,7 +253,7 @@ function Projects() {
           <div className="col-lg-5 offset-lg-1 col-md-12 col-sm-12 hues-logo">
             <motion.img
               className="img-3-1"
-              src="src/assets/Projects/HUES Logo Refined Black.png"
+              src={HuesLogo}
               initial={{ opacity: 0 }}
               animate={isInViewThree ? { opacity: 1 } : {}}
               transition={{ duration: 1 }}
@@ -300,7 +317,7 @@ function Projects() {
               <div className="col-6" style={{ paddingRight: 0 }}>
                 <motion.img
                   className="img-3-2"
-                  src="src/assets/Projects/HuesAlbumCover.png"
+                  src={Single1}
                   initial={{ opacity: 0 }}
                   animate={isInViewThree ? { opacity: 1 } : {}}
                   transition={{ duration: 1 }}
@@ -309,7 +326,7 @@ function Projects() {
               <div className="col-6" style={{ paddingLeft: 0 }}>
                 <motion.img
                   className="img-3-2"
-                  src="src/assets/Projects/i wont forget this love.png"
+                  src={Single2}
                   initial={{ opacity: 0 }}
                   animate={isInViewThree ? { opacity: 1 } : {}}
                   transition={{ duration: 1 }}
@@ -320,7 +337,7 @@ function Projects() {
               <div className="col-6" style={{ paddingRight: 0 }}>
                 <motion.img
                   className="img-3-2"
-                  src="src/assets/Projects/theseshoes4.jpg"
+                  src={Single3}
                   initial={{ opacity: 0 }}
                   animate={isInViewThree ? { opacity: 1 } : {}}
                   transition={{ duration: 1 }}
@@ -329,7 +346,7 @@ function Projects() {
               <div className="col-6" style={{ paddingLeft: 0 }}>
                 <motion.img
                   className="img-3-2"
-                  src="src/assets/Projects/SynesthesiaAlbumFinal.png"
+                  src={Synesthesia}
                   initial={{ opacity: 0 }}
                   animate={isInViewThree ? { opacity: 1 } : {}}
                   transition={{ duration: 1 }}
@@ -340,7 +357,7 @@ function Projects() {
           <div className="col-lg-3 offset-lg-1 col-md-12 col-sm-12">
             <motion.img
               className="img-3-3"
-              src="src/assets/Projects/PuppetStringDimensionCorrrected.png"
+              src={PuppetString}
               initial={{ opacity: 0 }}
               animate={isInViewThree ? { opacity: 1 } : {}}
               transition={{ duration: 1 }}
@@ -401,28 +418,37 @@ function Projects() {
         </div>
         <br />
         <div className="row">
-          <div className="col-lg-3 offset-lg-1 col-md-12 col-sm-12">
+          <div className="col-lg-2 offset-lg-2 col-md-12 col-sm-12">
             <motion.img
               className="img-4-1"
-              src="src/assets/Projects/PianoCover.png"
+              src={Piano}
               initial={{ opacity: 0 }}
               animate={isInViewFour ? { opacity: 1 } : {}}
               transition={{ duration: 1 }}
             ></motion.img>
           </div>
-          <div className="col-lg-3 col-md-12 col-sm-12">
+          <div className="col-lg-2 col-md-12 col-sm-12">
             <motion.img
               className="img-4-2"
-              src="src/assets/Projects/Landscape2.png"
+              src={Landscape}
               initial={{ opacity: 0 }}
               animate={isInViewFour ? { opacity: 1 } : {}}
               transition={{ duration: 1 }}
             ></motion.img>
           </div>
-          <div className="col-lg-3 col-md-12 col-sm-12">
+          <div className="col-lg-2 col-md-12 col-sm-12">
             <motion.img
               className="img-4-3"
-              src="src/assets/Projects/Cascade.png"
+              src={Cascade}
+              initial={{ opacity: 0 }}
+              animate={isInViewFour ? { opacity: 1 } : {}}
+              transition={{ duration: 1 }}
+            ></motion.img>
+          </div>
+          <div className="col-lg-2 col-md-12 col-sm-12">
+            <motion.img
+              className="img-4-4"
+              src={Northern}
               initial={{ opacity: 0 }}
               animate={isInViewFour ? { opacity: 1 } : {}}
               transition={{ duration: 1 }}
@@ -476,7 +502,7 @@ function Projects() {
           <div className="col-lg-5 col-md-12 col-sm-12">
             <motion.img
               className="img-5-1"
-              src="src/assets/Projects/Vergennes.png"
+              src={Vergennes}
               initial={{ opacity: 0 }}
               animate={isInViewFive ? { opacity: 1 } : {}}
               transition={{ duration: 1 }}
@@ -517,7 +543,7 @@ function Projects() {
           <div className="col-lg-3 col-md-12 col-sm-12">
             <motion.img
               className="img-5-2"
-              src="src/assets/Projects/Burlington.png"
+              src={Burlington}
               initial={{ opacity: 0 }}
               animate={isInViewFive ? { opacity: 1 } : {}}
               transition={{ duration: 1 }}
@@ -526,7 +552,7 @@ function Projects() {
           <div className="col-lg-3 col-md-12 col-sm-12">
             <motion.img
               className="img-5-3"
-              src="src/assets/Projects/WachusettMountain2.png"
+              src={WachusettMountain}
               initial={{ opacity: 0 }}
               animate={isInViewFive ? { opacity: 1 } : {}}
               transition={{ duration: 1 }}
