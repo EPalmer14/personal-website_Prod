@@ -45,7 +45,7 @@ import Killington from "../assets/KillingtonSki.jpg";
 import LakeDay from "../assets/Gallery/LakeDay.jpeg";
 import LastDay46 from "../assets/Gallery/LastDay46.jpeg";
 import LuffyAndZoro from "../assets/Gallery/LuffyAndZoro.jpg";
-import Minnesota from "../assets/Gallery/MinnesotaUSoccer.jpg";
+import Minnesota from "../assets/MinnesotaUSoccer.jpg";
 import Outside46 from "../assets/Gallery/Outside46.jpeg";
 import OutsideBerlinOlympic from "../assets/Gallery/OutsideBerlinOlympic.jpg";
 import PosingWithGnome from "../assets/Gallery/PosingWithGnome.jpeg";
