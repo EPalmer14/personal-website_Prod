@@ -291,8 +291,8 @@ function Projects() {
               I also did the cover art for their album "Synesthesia", where I
               tried to capture the essence of the bands colorful music while
               also reflecting the album title into the art. I also worked on the
-              cover art for the band's single "Puppet String", pictured on the
-              far right.
+              cover art for the band's single "Puppet String", which is also
+              pictured.
             </motion.p>
             <Button
               initial={{ opacity: 0 }}
