@@ -6,7 +6,7 @@ import "../styling/Gallery.css";
 import { motion } from "framer-motion";
 import { useEffect } from "react";
 import GreaseMusical from "../assets/Grease.jpg";
-import TwinState from "../assets/Gallery/TwinStateTrophy.jpg";
+import TwinState from "../assets/TwinStateTrophy.jpg";
 import ArtShow from "../assets/Gallery/ArtShow.jpeg";
 import AUGang from "../assets/Gallery/AUGang.jpg";
 import AwayWPI from "../assets/Gallery/AwayVsWPI.jpg";
