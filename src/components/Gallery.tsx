@@ -19,7 +19,7 @@ import CapeCod from "../assets/Gallery/CapeCod.jpeg";
 import CapePlayground from "../assets/Gallery/CapeCodPlayground.jpg";
 import ChurchSt from "../assets/Gallery/ChurchSt.jpeg";
 import ClarkFooty from "../assets/ClarkFooty.jpg";
-import ClarkMedia from "../assets/Gallery/ClarkMediaDay.jpg";
+import ClarkMedia from "../assets/ClarkMediaDay.jpg";
 import ClarkSeniorDay from "../assets/Gallery/ClarkSoccerSenior Day.jpeg";
 import CliffJumping from "../assets/Gallery/CliffJumping.jpeg";
 import Coaching from "../assets/Gallery/Coaching.jpeg";
