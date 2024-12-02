@@ -29,7 +29,7 @@ import EmmaWeddingInside from "../assets/Gallery/EmmasWeddingInside.jpeg";
 import EmmaWeddingOutside from "../assets/EmmasWeddingOutside.jpg";
 import EurosFest from "../assets/Gallery/EurosFest.jpeg";
 import FieldDays from "../assets/Gallery/FieldDays.jpeg";
-import Golfing from "../assets/Gallery/Golfing.jpg";
+import Golfing from "../assets/Golfing.jpg";
 import GolfJayPeak from "../assets/Gallery/GolfJayPeak.jpeg";
 import GolfFam from "../assets/Gallery/GolfWithFam.jpeg";
 import GolfSteve from "../assets/Gallery/GolfWithFamAndSteve.jpeg";
