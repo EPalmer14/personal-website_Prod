@@ -37,7 +37,7 @@ import GradParty from "../assets/GradParty.jpg";
 import GraduationFam from "../assets/Gallery/GraduationFam2024.jpeg";
 import GraduationFriends from "../assets/Gallery/GraduationFriends2024.jpeg";
 import HighSchoolGrad from "../assets/Gallery/HighSchoolGraduation.jpeg";
-import HighSchoolGradBanner from "../assets/Gallery/HighSchoolGraduationBanner.jpg";
+import HighSchoolGradBanner from "../assets/HighSchoolGraduationBanner.jpg";
 import HighSchoolGradFriends from "../assets/Gallery/HighSchoolGraduationFriends.jpg";
 import Hiking from "../assets/Gallery/HikingCamelsHump.jpeg";
 import InsideOlympic from "../assets/Gallery/InsideBerlinOlympic.jpeg";
