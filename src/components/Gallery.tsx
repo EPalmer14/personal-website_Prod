@@ -26,7 +26,7 @@ import Coaching from "../assets/Gallery/Coaching.jpeg";
 import CoolingOff from "../assets/CoolingOffWithBode.jpg";
 import DeepSea from "../assets/Gallery/DeepSeaFishing.jpeg";
 import EmmaWeddingInside from "../assets/Gallery/EmmasWeddingInside.jpeg";
-import EmmaWeddingOutside from "../assets/Gallery/EmmasWeddingOutside.jpg";
+import EmmaWeddingOutside from "../assets/EmmasWeddingOutside.jpg";
 import EurosFest from "../assets/Gallery/EurosFest.jpeg";
 import FieldDays from "../assets/Gallery/FieldDays.jpeg";
 import Golfing from "../assets/Gallery/Golfing.jpg";
