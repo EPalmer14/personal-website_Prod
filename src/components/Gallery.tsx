@@ -14,7 +14,7 @@ import BerlinWall from "../assets/Gallery/BerlinWall.jpeg";
 import BerlinWatch from "../assets/BerlinWatchParty.jpg";
 import Boston from "../assets/Gallery/BostonTrip.jpg";
 import BrosAndCousins from "../assets/Gallery/BrosAndCousins.jpeg";
-import BucketHats from "../assets/Gallery/BucketHats.jpg";
+import BucketHats from "../assets/BucketHats.jpg";
 import CapeCod from "../assets/Gallery/CapeCod.jpeg";
 import CapePlayground from "../assets/Gallery/CapeCodPlayground.jpg";
 import ChurchSt from "../assets/Gallery/ChurchSt.jpeg";
