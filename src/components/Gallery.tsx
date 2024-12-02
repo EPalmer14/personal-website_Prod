@@ -18,7 +18,7 @@ import BucketHats from "../assets/Gallery/BucketHats.jpg";
 import CapeCod from "../assets/Gallery/CapeCod.jpeg";
 import CapePlayground from "../assets/Gallery/CapeCodPlayground.jpg";
 import ChurchSt from "../assets/Gallery/ChurchSt.jpeg";
-import ClarkFooty from "../assets/Gallery/ClarkFooty.jpg";
+import ClarkFooty from "../assets/ClarkFooty.jpg";
 import ClarkMedia from "../assets/Gallery/ClarkMediaDay.jpg";
 import ClarkSeniorDay from "../assets/Gallery/ClarkSoccerSenior Day.jpeg";
 import CliffJumping from "../assets/Gallery/CliffJumping.jpeg";
