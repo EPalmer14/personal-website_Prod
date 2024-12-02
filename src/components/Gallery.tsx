@@ -5,7 +5,7 @@ import ImageOverlay from "./Images/ImageOverlay";
 import "../styling/Gallery.css";
 import { motion } from "framer-motion";
 import { useEffect } from "react";
-import Grease from "../assets/Gallery/Grease.jpg";
+import GreaseMusical from "../assets/Grease.jpg";
 import TwinState from "../assets/Gallery/TwinStateTrophy.jpg";
 import ArtShow from "../assets/Gallery/ArtShow.jpeg";
 import AUGang from "../assets/Gallery/AUGang.jpg";
@@ -146,12 +146,12 @@ function Gallery() {
         <br />
         <div className="gallery-grid">
           <LandscapeImage
-            src={Grease}
+            src={GreaseMusical}
             alt="Grease the musical"
             delay={0}
             onClick={() =>
               handleImageClick(
-                Grease,
+                GreaseMusical,
                 "Grease the musical",
                 "In High School, during my sophomore year, we performed the musical Grease. " +
                   "I played the role of Kenickie, and this photo was from the number 'Greased Lightning'.",
