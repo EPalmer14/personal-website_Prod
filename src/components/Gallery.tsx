@@ -33,7 +33,7 @@ import Golfing from "../assets/Golfing.jpg";
 import GolfJayPeak from "../assets/Gallery/GolfJayPeak.jpeg";
 import GolfFam from "../assets/Gallery/GolfWithFam.jpeg";
 import GolfSteve from "../assets/Gallery/GolfWithFamAndSteve.jpeg";
-import GradParty from "../assets/Gallery/GradParty.jpg";
+import GradParty from "../assets/GradParty.jpg";
 import GraduationFam from "../assets/Gallery/GraduationFam2024.jpeg";
 import GraduationFriends from "../assets/Gallery/GraduationFriends2024.jpeg";
 import HighSchoolGrad from "../assets/Gallery/HighSchoolGraduation.jpeg";
