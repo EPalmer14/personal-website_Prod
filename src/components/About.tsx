@@ -68,7 +68,7 @@ function About() {
       }
 
       e.preventDefault();
-      container.scrollLeft += e.deltaY;
+      container.scrollLeft += e.deltaY * 3;
     }
   };
 
