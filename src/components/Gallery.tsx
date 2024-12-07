@@ -6,9 +6,13 @@ import "../styling/Gallery.css";
 import { motion } from "framer-motion";
 import { useEffect } from "react";
 import GreaseMusical from "../assets/Gallery/Grease.jpg";
+import GreaseMusical_small from "../assets/Gallery/Grease_small.jpg";
 import TwinState from "../assets/Gallery/TwinStateTrophy.jpg";
+import TwinState_small from "../assets/Gallery/TwinStateTrophy_small.jpg";
 import ArtShow from "../assets/Gallery/ArtShow.jpeg";
+import ArtShow_small from "../assets/Gallery/ArtShow_small.jpg";
 import AUGang from "../assets/Gallery/AUGang.jpg";
+import AUGang_small from "../assets/Gallery/AUGang_small.jpg";
 import AwayWPI from "../assets/AwayVsWPI.jpg";
 import BerlinWall from "../assets/Gallery/BerlinWall.jpeg";
 import BerlinWatch from "../assets/BerlinWatchParty.jpg";
@@ -146,7 +150,7 @@ function Gallery() {
         <br />
         <div className="gallery-grid">
           <LandscapeImage
-            src={GreaseMusical}
+            src={GreaseMusical_small}
             alt="Grease the musical"
             delay={0}
             onClick={() =>
@@ -166,7 +170,7 @@ function Gallery() {
             }
           />
           <PortraitImage
-            src={TwinState}
+            src={TwinState_small}
             alt="After Twin State Game"
             style={{ objectPosition: "50% 30%" }}
             delay={0}
@@ -187,7 +191,7 @@ function Gallery() {
             }
           />
           <LandscapeImage
-            src={AUGang}
+            src={AUGang_small}
             alt="Addison United Teammates meetup after School soccer match"
             delay={0}
             onClick={() =>
