@@ -256,7 +256,7 @@ function Gallery() {
             }
           />
           <PortraitImage
-            src={ArtShow}
+            src={ArtShow_small}
             alt="Checking out one of my art pieces that made it into the Worcester College Art Show"
             delay={0}
             onClick={() =>
