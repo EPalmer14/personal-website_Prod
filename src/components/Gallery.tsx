@@ -14,57 +14,108 @@ import ArtShow_small from "../assets/Gallery/ArtShow_small.jpg";
 import AUGang from "../assets/Gallery/AUGang.jpg";
 import AUGang_small from "../assets/Gallery/AUGang_small.jpg";
 import AwayWPI from "../assets/AwayVsWPI.jpg";
+import AwayWPI_small from "../assets/AwayVsWPI_small.jpg";
 import BerlinWall from "../assets/Gallery/BerlinWall.jpeg";
+import BerlinWall_small from "../assets/Gallery/BerlinWall_small.jpg";
 import BerlinWatch from "../assets/BerlinWatchParty.jpg";
+import BerlinWatch_small from "../assets/BerlinWatchParty_small.jpg";
 import Boston from "../assets/Gallery/BostonTrip.jpg";
+import Boston_small from "../assets/Gallery/BostonTrip_small.jpg";
 import BrosAndCousins from "../assets/Gallery/BrosAndCousins.jpeg";
+import BrosAndCousins_small from "../assets/Gallery/BrosAndCousins_small.jpg";
 import BucketHats from "../assets/BucketHats.jpg";
+import BucketHats_small from "../assets/BucketHats_small.jpg";
 import CapeCod from "../assets/Gallery/CapeCod.jpeg";
+import CapeCod_small from "../assets/Gallery/CapeCod_small.jpg";
 import CapePlayground from "../assets/Gallery/CapeCodPlayground.jpg";
+import CapePlayground_small from "../assets/Gallery/CapeCodPlayground_small.jpg";
 import ChurchSt from "../assets/Gallery/ChurchSt.jpeg";
+import ChurchSt_small from "../assets/Gallery/ChurchSt_small.jpg";
 import ClarkFooty from "../assets/ClarkFooty.jpg";
+import ClarkFooty_small from "../assets/ClarkFooty_small.jpg";
 import ClarkMedia from "../assets/ClarkMediaDay.jpg";
+import ClarkMedia_small from "../assets/ClarkMediaDay_small.jpg";
 import ClarkSeniorDay from "../assets/Gallery/ClarkSoccerSenior Day.jpeg";
+import ClarkSeniorDay_small from "../assets/Gallery/ClarkSoccerSenior Day_small.jpg";
 import CliffJumping from "../assets/Gallery/CliffJumping.jpeg";
+import CliffJumping_small from "../assets/Gallery/CliffJumping_small.jpg";
 import Coaching from "../assets/Gallery/Coaching.jpeg";
+import Coaching_small from "../assets/Gallery/Coaching_small.jpg";
 import CoolingOff from "../assets/CoolingOffWithBode.jpg";
+import CoolingOff_small from "../assets/CoolingOffWithBode_small.jpg";
 import DeepSea from "../assets/Gallery/DeepSeaFishing.jpeg";
+import DeepSea_small from "../assets/Gallery/DeepSeaFishing_small.jpg";
 import EmmaWeddingInside from "../assets/Gallery/EmmasWeddingInside.jpeg";
+import EmmaWeddingInside_small from "../assets/Gallery/EmmasWeddingInside_small.jpg";
 import EmmaWeddingOutside from "../assets/EmmasWeddingOutside.jpg";
+import EmmaWeddingOutside_small from "../assets/EmmasWeddingOutside_small.jpg";
 import EurosFest from "../assets/Gallery/EurosFest.jpeg";
+import EurosFest_small from "../assets/Gallery/EurosFest_small.jpg";
 import FieldDays from "../assets/Gallery/FieldDays.jpeg";
+import FieldDays_small from "../assets/Gallery/FieldDays_small.jpg";
 import Golfing from "../assets/Golfing.jpg";
+import Golfing_small from "../assets/Golfing_small.jpg";
 import GolfJayPeak from "../assets/Gallery/GolfJayPeak.jpeg";
+import GolfJayPeak_small from "../assets/Gallery/GolfJayPeak_small.jpg";
 import GolfFam from "../assets/Gallery/GolfWithFam.jpeg";
+import GolfFam_small from "../assets/Gallery/GolfWithFam_small.jpg";
 import GolfSteve from "../assets/Gallery/GolfWithFamAndSteve.jpeg";
+import GolfSteve_small from "../assets/Gallery/GolfWithFamAndSteve_small.jpg";
 import GradParty from "../assets/GradParty.jpg";
+import GradParty_small from "../assets/GradParty_small.jpg";
 import GraduationFam from "../assets/Gallery/GraduationFam2024.jpeg";
+import GraduationFam_small from "../assets/Gallery/GraduationFam2024_small.jpg";
 import GraduationFriends from "../assets/Gallery/GraduationFriends2024.jpeg";
+import GraduationFriends_small from "../assets/Gallery/GraduationFriends2024_small.jpg";
 import HighSchoolGrad from "../assets/Gallery/HighSchoolGraduation.jpeg";
+import HighSchoolGrad_small from "../assets/Gallery/HighSchoolGraduation_small.jpg";
 import HighSchoolGradBanner from "../assets/HighSchoolGraduationBanner.jpg";
+import HighSchoolGradBanner_small from "../assets/HighSchoolGraduationBanner_small.jpg";
 import HighSchoolGradFriends from "../assets/HighSchoolGraduationFriends.jpg";
+import HighSchoolGradFriends_small from "../assets/HighSchoolGraduationFriends_small.jpg";
 import Hiking from "../assets/Gallery/HikingCamelsHump.jpeg";
+import Hiking_small from "../assets/Gallery/HikingCamelsHump_small.jpg";
 import InsideOlympic from "../assets/Gallery/InsideBerlinOlympic.jpeg";
+import InsideOlympic_small from "../assets/Gallery/InsideBerlinOlympic_small.jpg";
 import Killington from "../assets/KillingtonSki.jpg";
+import Killington_small from "../assets/KillingtonSki_small.jpg";
 import LakeDay from "../assets/Gallery/LakeDay.jpeg";
 import LastDay46 from "../assets/Gallery/LastDay46.jpeg";
+import LastDay46_small from "../assets/Gallery/LastDay46_small.jpg";
 import LuffyAndZoro from "../assets/Gallery/LuffyAndZoro.jpg";
+import LuffyAndZoro_small from "../assets/Gallery/LuffyAndZoro_small.jpg";
 import Minnesota from "../assets/MinnesotaUSoccer.jpg";
+import Minnesota_small from "../assets/MinnesotaUSoccer_small.jpg";
 import Outside46 from "../assets/Gallery/Outside46.jpeg";
+import Outside46_small from "../assets/Gallery/Outside46_small.jpg";
 import OutsideBerlinOlympic from "../assets/OutsideBerlinOlympic.jpg";
+import OutsideBerlinOlympic_small from "../assets/OutsideBerlinOlympic_small.jpg";
 import PosingWithGnome from "../assets/Gallery/PosingWithGnome.jpeg";
+import PosingWithGnome_small from "../assets/Gallery/PosingWithGnome_small.jpg";
 import PromSeniorYear from "../assets/PromAvengers.jpg";
+import PromSeniorYear_small from "../assets/PromAvengers_small.jpg";
 import SoccerHazy from "../assets/SoccerHazy.jpg";
+import SoccerHazy_small from "../assets/SoccerHazy_small.jpg";
 import SpringFormal from "../assets/Gallery/SpringFormal.jpeg";
+import SpringFormal_small from "../assets/Gallery/SpringFormal_small.jpg";
 import Surfing from "../assets/Gallery/Surfing.jpeg";
+import Surfing_small from "../assets/Gallery/Surfing_small.jpg";
 import Thanksgiving from "../assets/Gallery/Thanksgiving.jpeg";
+import Thanksgiving_small from "../assets/Gallery/Thanksgiving_small.jpg";
 import TopOfWachusett from "../assets/Gallery/TopOfWachusett.jpeg";
+import TopOfWachusett_small from "../assets/Gallery/TopOfWachusett_small.jpg";
 import USOpen from "../assets/Gallery/USOpen.jpeg";
+import USOpen_small from "../assets/Gallery/USOpen_small.jpg";
 import VictoriaPillar from "../assets/Gallery/VictoriaPillar.jpeg";
+import VictoriaPillar_small from "../assets/Gallery/VictoriaPillar_small.jpg";
 import VisitingGrandpa from "../assets/Gallery/VisitngGrandpa.jpg";
+import VisitingGrandpa_small from "../assets/Gallery/VisitngGrandpa_small.jpg";
 import VsWPI from "../assets/VsWPI.jpg";
+import VsWPI_small from "../assets/VsWPI_small.jpg";
 import WakeSurf from "../assets/Gallery/WakeSurf.jpeg";
+import WakeSurf_small from "../assets/Gallery/WakeSurf_small.jpg";
 import Wedding from "../assets/Gallery/Wedding.jpeg";
+import Wedding_small from "../assets/Gallery/Wedding_small.jpg";
 
 function Gallery() {
   const [screenSize, setScreenSize] = useState<"small" | "medium" | "large">(
@@ -204,7 +255,7 @@ function Gallery() {
             }
           />
           <PortraitImage
-            src={Minnesota}
+            src={Minnesota_small}
             alt="At University of Minnesota stadium for an MLS game"
             style={{ objectPosition: "50% 70%" }}
             delay={0}
@@ -225,7 +276,7 @@ function Gallery() {
             }
           />
           <LandscapeImage
-            src={HighSchoolGrad}
+            src={HighSchoolGrad_small}
             alt="High School graduation with family"
             delay={0}
             onClick={() =>
@@ -237,7 +288,7 @@ function Gallery() {
             }
           />
           <LandscapeImage
-            src={SoccerHazy}
+            src={SoccerHazy_small}
             alt="Clark University nighttime soccer game 2019"
             delay={0}
             onClick={() =>
@@ -276,7 +327,7 @@ function Gallery() {
             }
           />
           <LandscapeImage
-            src={AwayWPI}
+            src={AwayWPI_small}
             alt="In action in an away game at WPI"
             delay={0}
             onClick={() =>
@@ -288,7 +339,7 @@ function Gallery() {
             }
           />
           <LandscapeImage
-            src={BerlinWall}
+            src={BerlinWall_small}
             alt="At the Berlin Wall"
             delay={0}
             onClick={() =>
@@ -308,7 +359,7 @@ function Gallery() {
             }
           />
           <PortraitImage
-            src={ClarkSeniorDay}
+            src={ClarkSeniorDay_small}
             alt="Clark Soccer senior day tailgate"
             delay={0}
             onClick={() =>
@@ -328,7 +379,7 @@ function Gallery() {
             }
           />
           <PortraitImage
-            src={Hiking}
+            src={Hiking_small}
             alt="Hiking up Camels Hump"
             style={{ objectPosition: "50% 30%" }}
             delay={0}
@@ -348,7 +399,7 @@ function Gallery() {
             }
           />
           <PortraitImage
-            src={Outside46}
+            src={Outside46_small}
             alt="Outside apartment freshman year"
             style={{ objectPosition: "50% 70%" }}
             delay={0}
@@ -369,7 +420,7 @@ function Gallery() {
             }
           />
           <PortraitImage
-            src={VisitingGrandpa}
+            src={VisitingGrandpa_small}
             alt="Visit with grandpa"
             style={{ objectPosition: "50% 50%" }}
             delay={0}
@@ -382,7 +433,7 @@ function Gallery() {
             }
           />
           <PortraitImage
-            src={WakeSurf}
+            src={WakeSurf_small}
             alt="Wake Surfing"
             style={{ objectPosition: "50% 50%" }}
             delay={0}
@@ -402,7 +453,7 @@ function Gallery() {
             }
           />
           <PortraitImage
-            src={PosingWithGnome}
+            src={PosingWithGnome_small}
             alt="Skiing with the gnome"
             style={{ objectPosition: "50% 50%" }}
             delay={0}
@@ -423,7 +474,7 @@ function Gallery() {
             }
           />
           <PortraitImage
-            src={TopOfWachusett}
+            src={TopOfWachusett_small}
             alt="On top of Wachusett Mountain"
             style={{ objectPosition: "50% 50%" }}
             delay={0}
@@ -444,7 +495,7 @@ function Gallery() {
             }
           />
           <LandscapeImage
-            src={PromSeniorYear}
+            src={PromSeniorYear_small}
             alt="Senior Prom"
             delay={0}
             onClick={() =>
@@ -456,7 +507,7 @@ function Gallery() {
             }
           />
           <LandscapeImage
-            src={GolfFam}
+            src={GolfFam_small}
             alt="Golf pic with Matteo and Dad"
             delay={0}
             onClick={() =>
@@ -468,7 +519,7 @@ function Gallery() {
             }
           />
           <PortraitImage
-            src={Coaching}
+            src={Coaching_small}
             alt="Coaches"
             style={{ objectPosition: "50% 30%" }}
             delay={0}
@@ -509,7 +560,7 @@ function Gallery() {
             }
           />
           <LandscapeImage
-            src={GraduationFriends}
+            src={GraduationFriends_small}
             alt="2024 Graduation"
             delay={0}
             onClick={() =>
@@ -521,7 +572,7 @@ function Gallery() {
             }
           />
           <PortraitImage
-            src={OutsideBerlinOlympic}
+            src={OutsideBerlinOlympic_small}
             alt="Coaches"
             style={{ objectPosition: "50% 50%" }}
             delay={0}
@@ -541,7 +592,7 @@ function Gallery() {
             }
           />
           <PortraitImage
-            src={CapeCod}
+            src={CapeCod_small}
             alt="Cape Cod"
             style={{ objectPosition: "50% 50%" }}
             delay={0}
@@ -561,7 +612,7 @@ function Gallery() {
             }
           />
           <PortraitImage
-            src={FieldDays}
+            src={FieldDays_small}
             alt="Field Days"
             style={{ objectPosition: "50% 50%" }}
             delay={0}
@@ -581,7 +632,7 @@ function Gallery() {
             }
           />
           <LandscapeImage
-            src={VsWPI}
+            src={VsWPI_small}
             alt="Freshman year vs WPI"
             delay={0}
             onClick={() =>
@@ -593,7 +644,7 @@ function Gallery() {
             }
           />
           <LandscapeImage
-            src={CoolingOff}
+            src={CoolingOff_small}
             alt="Cooling off with Bode"
             delay={0}
             onClick={() =>
@@ -612,7 +663,7 @@ function Gallery() {
             }
           />
           <LandscapeImage
-            src={ChurchSt}
+            src={ChurchSt_small}
             alt="Church Street"
             delay={0}
             onClick={() =>
@@ -631,7 +682,7 @@ function Gallery() {
             }
           />
           <LandscapeImage
-            src={BucketHats}
+            src={BucketHats_small}
             alt="Bucket Hats"
             delay={0}
             onClick={() =>
@@ -643,7 +694,7 @@ function Gallery() {
             }
           />
           <PortraitImage
-            src={BerlinWatch}
+            src={BerlinWatch_small}
             alt="Berlin Watch Party"
             style={{ objectPosition: "50% 50%" }}
             delay={0}
@@ -663,7 +714,7 @@ function Gallery() {
             }
           />
           <PortraitImage
-            src={CliffJumping}
+            src={CliffJumping_small}
             alt="Cliff Jumping"
             style={{ objectPosition: "50% 25%" }}
             delay={0}
@@ -684,7 +735,7 @@ function Gallery() {
             }
           />
           <PortraitImage
-            src={Thanksgiving}
+            src={Thanksgiving_small}
             alt="Thanksgiving with Family"
             style={{ objectPosition: "50% 50%" }}
             delay={0}
@@ -704,7 +755,7 @@ function Gallery() {
             }
           />
           <PortraitImage
-            src={DeepSea}
+            src={DeepSea_small}
             alt="Deepsea Fishing"
             style={{ objectPosition: "50% 20%" }}
             delay={0}
@@ -724,7 +775,7 @@ function Gallery() {
             }
           />
           <PortraitImage
-            src={LuffyAndZoro}
+            src={LuffyAndZoro_small}
             alt="Halloween"
             style={{ objectPosition: "50% 40%" }}
             delay={0}
@@ -744,7 +795,7 @@ function Gallery() {
             }
           />
           <LandscapeImage
-            src={EmmaWeddingInside}
+            src={EmmaWeddingInside_small}
             alt="Emma's Wedding Inside"
             delay={0}
             onClick={() =>
@@ -756,7 +807,7 @@ function Gallery() {
             }
           />
           <LandscapeImage
-            src={GradParty}
+            src={GradParty_small}
             alt="Grad Party"
             delay={0}
             onClick={() =>
@@ -775,7 +826,7 @@ function Gallery() {
             }
           />
           <PortraitImage
-            src={LastDay46}
+            src={LastDay46_small}
             alt="Last Day at 46"
             style={{ objectPosition: "50% 50%" }}
             delay={0}
@@ -789,7 +840,7 @@ function Gallery() {
             }
           />
           <PortraitImage
-            src={HighSchoolGradBanner}
+            src={HighSchoolGradBanner_small}
             alt="Unveiling Track Banner"
             style={{ objectPosition: "50% 70%" }}
             delay={0}
@@ -809,7 +860,7 @@ function Gallery() {
             }
           />
           <LandscapeImage
-            src={Surfing}
+            src={Surfing_small}
             alt="Surfing"
             delay={0}
             onClick={() =>
@@ -821,7 +872,7 @@ function Gallery() {
             }
           />
           <LandscapeImage
-            src={SpringFormal}
+            src={SpringFormal_small}
             alt="Spring Formal"
             delay={0}
             onClick={() =>
@@ -833,7 +884,7 @@ function Gallery() {
             }
           />
           <LandscapeImage
-            src={InsideOlympic}
+            src={InsideOlympic_small}
             alt="Inside the Berlin Olympic Stadium"
             delay={0}
             onClick={() =>
@@ -845,7 +896,7 @@ function Gallery() {
             }
           />
           <LandscapeImage
-            src={HighSchoolGradFriends}
+            src={HighSchoolGradFriends_small}
             alt="High School Graduation with friends."
             delay={0}
             onClick={() =>
@@ -857,7 +908,7 @@ function Gallery() {
             }
           />
           <PortraitImage
-            src={Golfing}
+            src={Golfing_small}
             alt="Golfing with Clark teammates"
             style={{ objectPosition: "50% 50%" }}
             delay={0}
@@ -877,7 +928,7 @@ function Gallery() {
             }
           />
           <PortraitImage
-            src={VictoriaPillar}
+            src={VictoriaPillar_small}
             alt="Victoria Pillar"
             style={{ objectPosition: "50% 50%" }}
             delay={0}
@@ -898,7 +949,7 @@ function Gallery() {
             }
           />
           <PortraitImage
-            src={Boston}
+            src={Boston_small}
             alt="Boston Trip"
             style={{ objectPosition: "50% 10%" }}
             delay={0}
@@ -919,7 +970,7 @@ function Gallery() {
             }
           />
           <LandscapeImage
-            src={Killington}
+            src={Killington_small}
             alt="Killington Mountain Skiing"
             delay={0}
             onClick={() =>
@@ -931,7 +982,7 @@ function Gallery() {
             }
           />
           <LandscapeImage
-            src={Wedding}
+            src={Wedding_small}
             alt="Evan and Eliza's Wedding"
             delay={0}
             onClick={() =>
@@ -943,7 +994,7 @@ function Gallery() {
             }
           />
           <LandscapeImage
-            src={GraduationFam}
+            src={GraduationFam_small}
             alt="Master's Graduation"
             delay={0}
             onClick={() =>
@@ -963,7 +1014,7 @@ function Gallery() {
             }
           />
           <PortraitImage
-            src={CapePlayground}
+            src={CapePlayground_small}
             alt="Cape Cod playground"
             style={{ objectPosition: "50% 50%" }}
             delay={0}
@@ -983,7 +1034,7 @@ function Gallery() {
             }
           />
           <PortraitImage
-            src={ClarkMedia}
+            src={ClarkMedia_small}
             alt="Clark soccer media day"
             style={{ objectPosition: "50% 35%" }}
             delay={0}
@@ -1003,7 +1054,7 @@ function Gallery() {
             }
           />
           <PortraitImage
-            src={GolfJayPeak}
+            src={GolfJayPeak_small}
             alt="Golf at Jay Peak"
             style={{ objectPosition: "50% 35%" }}
             delay={0}
@@ -1023,7 +1074,7 @@ function Gallery() {
             }
           />
           <LandscapeImage
-            src={BrosAndCousins}
+            src={BrosAndCousins_small}
             alt="Harrison and Henry visiting"
             delay={0}
             onClick={() =>
@@ -1042,7 +1093,7 @@ function Gallery() {
             }
           />
           <LandscapeImage
-            src={ClarkFooty}
+            src={ClarkFooty_small}
             alt="Footy at Colby-Sawyer College"
             delay={0}
             onClick={() =>
@@ -1061,7 +1112,7 @@ function Gallery() {
             }
           />
           <PortraitImage
-            src={EmmaWeddingOutside}
+            src={EmmaWeddingOutside_small}
             alt="Emma's Wedding Outside"
             style={{ objectPosition: "50% 50%" }}
             delay={0}
@@ -1081,7 +1132,7 @@ function Gallery() {
             }
           />
           <LandscapeImage
-            src={USOpen}
+            src={USOpen_small}
             alt="US Open"
             delay={0}
             onClick={() =>
@@ -1094,7 +1145,7 @@ function Gallery() {
             }
           />
           <PortraitImage
-            src={EurosFest}
+            src={EurosFest_small}
             alt="Euros Fest"
             style={{ objectPosition: "50% 50%" }}
             delay={0}
@@ -1114,7 +1165,7 @@ function Gallery() {
             }
           />
           <PortraitImage
-            src={GolfSteve}
+            src={GolfSteve_small}
             alt="Golf with Steve"
             style={{ objectPosition: "50% 20%" }}
             delay={0}
