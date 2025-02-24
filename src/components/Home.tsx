@@ -44,7 +44,7 @@ function Home() {
                 transition={{ type: "spring", stiffness: 50, duration: 1.5 }}
                 className="name-h1"
               >
-                <strong>Hi, welcome to my website!</strong>
+                <strong>Hi, welcome to my website! This is a test!</strong>
               </motion.h1>
             </div>
           </div>
